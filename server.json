@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.golegally/compliance-mcp",
+  "title": "GoLegally Compliance",
+  "description": "Compliance obligations, engagements, notices, registrations and reminders in GoLegally.",
+  "repository": {
+    "url": "https://github.com/golegally/compliance-mcp",
+    "source": "github"
+  },
+  "version": "1.0.7",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://golegally-compliance.mcp.pretuned.ai/mcp"
+    }
+  ]
+}
