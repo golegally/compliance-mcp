@@ -1,0 +1,16 @@
+{
+  "name": "golegally-compliance",
+  "owner": {
+    "name": "Vadavision Private Limited"
+  },
+  "metadata": {
+    "description": "Compliance obligations, engagements, notices, registrations and reminders in GoLegally."
+  },
+  "plugins": [
+    {
+      "name": "golegally-compliance",
+      "source": "./",
+      "description": "Compliance obligations, engagements, notices, registrations and reminders in GoLegally."
+    }
+  ]
+}

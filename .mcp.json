@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "golegally-compliance": {
+      "type": "http",
+      "url": "https://golegally-compliance.mcp.pretuned.ai/mcp"
+    }
+  }
+}
