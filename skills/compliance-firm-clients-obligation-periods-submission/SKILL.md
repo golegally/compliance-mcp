@@ -13,4 +13,3 @@ description: "Firm clients obligation periods submission: Where filing a client�
 - `file_client_return_submission`: File a client’s return at the government with the signatory's code
 - `read_client_return_ledgers`: Read the cash and credit held at the government for a client’s return
 - `reset_client_return_submission`: Discard a client's return saved at the government
-- `settle_client_return_submission`: Pay a client’s return's tax from the credit and cash held at the government

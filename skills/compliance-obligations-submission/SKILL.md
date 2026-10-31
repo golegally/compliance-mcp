@@ -13,4 +13,3 @@ description: "Obligations submission: Where filing a return at the government st
 - `file_return_submission`: File a return at the government with the signatory's code
 - `read_return_ledgers`: Read the cash and credit held at the government for a return
 - `reset_return_submission`: Discard the return saved at the government
-- `settle_return_submission`: Pay a return's tax from the credit and cash held at the government
