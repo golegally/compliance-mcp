@@ -1,0 +1,9 @@
+{
+  "name": "golegally-compliance",
+  "version": "1.0.7",
+  "description": "Compliance obligations, engagements, notices, registrations and reminders in GoLegally.",
+  "author": {
+    "name": "Vadavision Private Limited"
+  },
+  "logo": "assets/logo.png"
+}
